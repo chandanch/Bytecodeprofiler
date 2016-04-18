@@ -88,7 +88,7 @@ public class ThreadHandlerAndroidExample extends Activity {
 								    //ALERT MESSAGE
 									Toast.makeText(
 											getBaseContext(),
-											"Not Got Response From Server.",
+											"No response from the server.",
 											Toast.LENGTH_SHORT).show();
 							}	
 
