@@ -1,6 +1,6 @@
 package com.chandan.threadhandler;
 /* Author @chandan_ch 
- *github: chandanch
+ * github: chandanch
  *
  */
 import org.apache.http.client.HttpClient;
@@ -96,7 +96,7 @@ public class ThreadHandlerAndroidExample extends Activity {
 					};
 
 				});
-				// Start Thread 
+				// Start Thread in the background
 				background.start();  //After call start method thread called run Method
 			}
 		});
